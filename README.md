@@ -91,8 +91,3 @@ Attach correct policies to your IAM user.
 ## Next Steps
 - Set up an AWS Lambda function to automate uploads.
 - Use Amazon Athena to query CSV data directly in S3.
-
----
-**Author**: Your Name  
-**Date**: March 2025  
-
