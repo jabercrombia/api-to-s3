@@ -52,8 +52,9 @@ OPENWEATHER_API_KEY=your_api_key
 AWS_ACCESS_KEY_ID=your_access_key
 AWS_SECRET_ACCESS_KEY=your_secret_key
 AWS_DEFAULT_REGION=your_region
-S3_BUCKET_NAME=jabercrombia
-S3_OBJECT_KEY=weatherapi/weather.csv
+S3_FILE_NAME=jabercrombia
+S3_FILE_PATH=weatherapi/weather.csv
+CITY=city for the forecast data
 ```
 
 ## Running the ETL Script
